@@ -1,11 +1,7 @@
-![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=2000)
+![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Lakshy Gupta</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" height="330" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshy8734&label=Profile%20views&color=0e75b6&style=flat" alt="lakshy8734" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@lakshy8734" target="blank"><img src="https://img.shields.io/twitter/follow/@lakshy8734?logo=twitter&style=for-the-badge" alt="@lakshy8734" /></a> </p>
 
 - 🌱 I’m currently learning **hardhat and ether.js**
 
@@ -18,6 +14,7 @@
 <a href="https://twitter.com/lakshy8734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshy8734" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshy gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshy gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/_lakshy_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lakshy_gupta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lakshygupta123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshygupta123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
