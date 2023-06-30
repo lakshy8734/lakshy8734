@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" height="330" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
-- 🌱 I’m currently learning **hardhat and ether.js**
+- 🌱 I’m currently preparing for Certified Ethereum Developer Certification
 
 - 💬 Ask me about **react,javascript**
 
