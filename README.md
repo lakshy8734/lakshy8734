@@ -1,11 +1,11 @@
 ![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Lakshy Gupta</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">Crafting code and cultivating curiosity – a developer and tech enthusiast on a quest to turn ideas into digital reality. 🚀✨ #CodeArtisan</h3>
 <img align="right" alt="Coding" width="400" height="330" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 
-- 🌱 I’m currently preparing for Certified Ethereum Developer Certification
+- 🌱 I’m currently preparing for Interviews......
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react,javascript,blockchain**
 
 - 📫 How to reach me **lakshygupta123@gmail.com**
 
