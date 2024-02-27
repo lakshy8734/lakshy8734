@@ -1,4 +1,4 @@
-![MasterHead]([https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1800](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wahlandcase.com%2Fblog%2Fblockchain-developer&psig=AOvVaw3R94rw2sJwqFKo_LJ3Q4Cu&ust=1709121929161000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD40r29y4QDFQAAAAAdAAAAABAF))
+![MasterHead](https://img.freepik.com/premium-vector/programming-code-icon-made-with-binary-code-coding-hacker-matrix-background-with-digits-1-0_127544-1141.jpg?w=1800)
 <h1 align="center">Hi 👋, I'm Lakshy Gupta</h1>
 <h3 align="center">Crafting code and cultivating curiosity – a developer and tech enthusiast on a quest to turn ideas into digital reality. 🚀✨ #CodeArtisan</h3>
 <img align="right" alt="Coding" width="400" height="330" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
