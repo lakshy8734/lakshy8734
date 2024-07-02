@@ -1,4 +1,7 @@
-![MasterHead](https://i.postimg.cc/t494KKPK/b03d044029121a37d9df316146581931.jpg)
+<p align="center">
+  <img src="https://i.postimg.cc/t494KKPK/b03d044029121a37d9df316146581931.jpg" width="800"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Lakshy Gupta</h1>
 <h3 align="center">Crafting code and cultivating curiosity – a developer and tech enthusiast on a quest to turn ideas into digital reality. 🚀✨ #CodeArtisan</h3>
 <img align="right" alt="Coding" width="400" height="330" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
